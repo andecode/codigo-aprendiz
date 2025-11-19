@@ -1,8 +1,6 @@
-🧑‍💻 [codigoaprendiz.com.br](codigoaprendiz.com.br)
+Artigos publicados no site [codigoaprendiz.com.br](codigoaprendiz.com.br)
 
 > Ensinando Programação com Matemática
-
-> > Artigos publicados no site
 
 | Título do Artigo | Repositório |
 | ---------------- |----------------|
