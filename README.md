@@ -11,3 +11,4 @@ Artigos publicados no site [codigoaprendiz.com.br](codigoaprendiz.com.br)
 |05| **Algarismo em Código** |Algarismos são símbolos usados para escrever números... ➡️| [site](https://codigoaprendiz.com.br/algarismos-em-codigo/) |[repositório](https://github.com/andecode/codigo-aprendiz/blob/main/05-algarismo-em-cod.ipynb) |
 |06| **Ângulo em Código** |Ângulo é a região do plano determinada por duas semirretas... ➡️| [site](https://codigoaprendiz.com.br/angulo-em-codigo/) ||
 |07| **Aproximação em Código** |Aproximação é a obtenção de um resultado próximo do verdadeiro... ➡️| [site](https://codigoaprendiz.com.br/aproximacao-em-codigo/) |[repositório](https://github.com/andecode/codigo-aprendiz/blob/main/07-aproxima-em-codigo.ipynb) |
+|08| **Área em Código** |Área é a medida de uma superfície, ou seja, indica quanto espaço uma figura ocupa em duas dimensões.... ➡️| [site](https://codigoaprendiz.com.br/area-em-codigo/) ||
